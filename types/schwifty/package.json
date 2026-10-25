@@ -1,7 +1,7 @@
 {
     "private": true,
     "dependencies": {
-        "knex": "^0.16.1",
-        "objection": "^1.1.9"
+        "knex": "^3.3.0",
+        "objection": "^4.2.0"
     }
 }
